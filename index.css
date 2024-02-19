@@ -12,11 +12,11 @@ body{
 
 .container{
     background: rgba(255,255,255,0.3);
-    padding: 50px;
+    padding: 30px;
     box-shadow: 6px 6px 15px rgba(0,0,0,.3);
     border-radius: 15px;
     width: 60%;
-   max-width: 800px;
+   max-width: 500px;
 }
 
 .input-container{
@@ -27,6 +27,7 @@ body{
     font-weight: 700;
 }
 .heading{
+    /*font-size:20px;*/
     text-align: center;
     text-shadow:3px 0 6px ;
     letter-spacing: 3px;
